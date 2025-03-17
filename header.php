@@ -176,7 +176,7 @@
       <div class="logo">
 
         <!-- Uncomment below if you prefer to use an image logo -->
-        <a href="index#home"><img src="assets/img/temp_logo.png" style="width: 100px;"  alt="" class="img-fluid img-srolled"></a>
+        <a href="index#home"><img src="assets/img/temp_logo.png" style="height: 300px;"  alt="" class="img-fluid img-srolled"></a>
       </div>
 
       <nav id="navbar" class="navbar">
