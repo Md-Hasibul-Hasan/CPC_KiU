@@ -50,7 +50,7 @@ include('header.php');
               <h6 style="margin-top: -; padding-left:15px"><i>07 March 2024</i></h6>
               <br><br>
               <p class="" style=" text-align: justify;text-justify: inter-word; padding:15px">
-                Team BSMRU_NewHorizon proudly represented Bangabandhu Sheikh Mujibur Rahman University, Kishoreganj, at the prestigious NCPC 2024, hosted by Jahangirnagar University. Comprising Md. Sarafat Hossain (CSE-01), Shahria Mahmud Aupo (CSE-01), and Meherab Hossen (CSE-01), our team embarked on this exhilarating journey for the very first time.
+                Team KiU_NewHorizon proudly represented Kishoreganj University, at the prestigious NCPC 2024, hosted by Jahangirnagar University. Comprising Md. Sarafat Hossain (CSE-01), Shahria Mahmud Aupo (CSE-01), and Meherab Hossen (CSE-01), our team embarked on this exhilarating journey for the very first time.
 
 Participating in NCPC was not merely a competition for us; it was an opportunity to showcase our talent, passion, and dedication in the realm of programming. As newcomers to the contest, we approached each challenge with determination and a hunger to learn and excel.
 

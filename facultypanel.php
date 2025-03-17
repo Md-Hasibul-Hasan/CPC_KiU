@@ -56,7 +56,7 @@ include('header.php');
                                 <span><strong style="color: #3498db; font-size:15px">Lecturer </strong></span>
                                 <span style="color:black; font-size:12px"><strong>Department of CSE </strong></span>
                                 <span><strong style="color: black; ">
-                                        BSMRU, Kishoreganj
+                                        KiU, Kishoreganj
                                     </strong></span>
                             </div>
                         </a>

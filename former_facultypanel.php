@@ -105,7 +105,7 @@ include('<assets/partials/config.php')
                                 <span><strong style='color: #3498db; font-size:15px'>Lecturer </strong></span>
                                 <span style='color:black; font-size:12px'><strong>Department of CSE </strong></span>
                                 <span><strong style='color: black;;'>
-                                        BSMRU, Kishoreganj
+                                        KiU, Kishoreganj
                                     </strong></span>
                                 <span><strong style='color: #3498db; font-size:15px'>Chief Patron (Aug 2022 to Aug
                                         2023)</strong></span>

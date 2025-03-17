@@ -158,7 +158,7 @@
                             <img src="./assets/img/developer/lead.jpg" alt="Profile" class="rounded-circle">
                             <h2 style="padding-bottom: 5px">Saimon Islam</h2>
                             <h3 class="text-align-center">Dept. of Computer Science & Engineering</h3>
-                            <h3 class="text-align-center" style="margin-top: -5px">Bangabandhu Sheikh Mujibur Rahman University, Kishoreganj</h3>
+                            <h3 class="text-align-center" style="margin-top: -5px">Kishoreganj University</h3>
                             <div class="social-links mt-2">
                                 <a href="mailto:saimonislam.cse@gmail.com" class="email"><i class="ri-mail-send-fill"></i></a>
                                 <a target="./" href="https://bd.linkedin.com/in/saimon-islam?trk=public-profile-badge-profile-badge-view-profile-cta" class="linkedin"><i class="bi bi-linkedin"></i></a>
@@ -187,7 +187,7 @@
                             <h2 style="padding-bottom: 5px">Swapnil Biswas</h2>
                             <h3 class="text-align-center">Lecturer</h3>
                             <h3 class="text-align-center">Dept. of Computer Science & Engineering</h3>
-                            <h3 class="text-align-center" style="margin-top: -5px">Bangabandhu Sheikh Mujibur Rahman University, Kishoreganj</h3>
+                            <h3 class="text-align-center" style="margin-top: -5px">Kishoreganj University</h3>
                             <div class="social-links mt-2">
                                 <a href="mailto:swapnil.cse16@gmail.com" class="email"><i class="ri-mail-send-fill"></i></a>
                                 <a target="./" href="https://bd.linkedin.com/in/swapnil-biswas-48250a225?trk=public-profile-badge-profile-badge-view-profile-cta" class="linkedin"><i class="bi bi-linkedin"></i></a>

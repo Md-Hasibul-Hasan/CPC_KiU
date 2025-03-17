@@ -530,7 +530,7 @@ include('header.php');
                         <div class="info">
                             <div>
                                 <i class="ri-map-pin-line"></i>
-                                <p>Temporary Campus BSMRU (Gurudayal College),<br>Kishoreganj, Bangladesh</p>
+                                <p>Temporary Campus KiU (Gurudayal College),<br>Kishoreganj, Bangladesh</p>
                             </div>
 
                             <div>

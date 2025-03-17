@@ -5,7 +5,7 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <title>BSMRU Computer & Programming Club | Events, Courses, Panels</title>
   <meta name="description" content="Join the BSMRU Computer & Programming Club to develop your programming skills. Explore our events, courses, and networking opportunities." />
-  <meta name="keywords" content="CSE, Computer Science and Engineering, Bangabandhu Sheikh Mujibur Rahman University, BSMRU, Kishoreganj, university in Kishoreganj, CSE department, BSMRU CSE, computer club, programming club, CPC-KiU">
+  <meta name="keywords" content="CSE, Computer Science and Engineering, Kishoreganj University, KiU, Kishoreganj, university in Kishoreganj, CSE department, KiU CSE, computer club, programming club, CPC-KiU">
   
   <!-- Open Graph meta tags -->
   <meta property="og:title" content="BSMRU Computer & Programming Club | Events, Courses, Panels">
@@ -176,7 +176,7 @@
       <div class="logo">
 
         <!-- Uncomment below if you prefer to use an image logo -->
-        <a href="index#home"><img src="assets/img/temp_logo.png"  alt="" class="img-fluid img-srolled"></a>
+        <a href="index#home"><img src="assets/img/temp_logo.png" style="width: 100px;"  alt="" class="img-fluid img-srolled"></a>
       </div>
 
       <nav id="navbar" class="navbar">
