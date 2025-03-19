@@ -36,7 +36,45 @@ include('header.php');
 
             </div>
             <br>
-            <dic class="row d-flex justify-content-center">
+            <div class="row d-flex justify-content-center">
+                <div class="col-lg-3 col-md-6 col-sm-6 d-flex align-items-stretch">
+                    <div class="member" data-aos="fade-up" data-aos-delay="100" id="core">
+                        <div class="member-img">
+                            <img src="assets/img/team/facultyPanel/tuhin.png" class="img-fluid" alt=""
+                                style="height: 40%; width:310px">
+                            <div class="social">
+                                <!-- <a href=""><i class="bi bi-twitter"></i></a> -->
+                                <!-- <a href=""><i class="bi bi-instagram"></i></a> -->
+                                <a href="#" target="_blank"><i
+                                        class="bi bi-linkedin"></i></a>
+                            </div>
+                        </div>
+                        <a href="https://cse.bsmru.ac.bd/facultyprofile?id=2" target="_blank">
+
+                            <div class="member-info">
+                                <h4 class="text-uppercase">Md. Kamrul Hasan Tuhin</h4>
+                                <span><strong style="color: #3498db; font-size:15px">Lecturer </strong></span>
+                                <span style="color:black; font-size:12px"><strong>Department of CSE </strong></span>
+                                <span><strong style="color: black; ">
+                                        KiU, Kishoreganj
+                                    </strong></span>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+
+            <br><br><br>
+
+           
+
+            <div class="section-title" data-aos="fade-up">
+                <h2>CHIEF PATRON</h2>
+
+            </div>
+            <br>
+            <div class="row d-flex justify-content-center">
                 <div class="col-lg-3 col-md-6 col-sm-6 d-flex align-items-stretch">
                     <div class="member" data-aos="fade-up" data-aos-delay="100" id="core">
                         <div class="member-img">
@@ -62,7 +100,7 @@ include('header.php');
                         </a>
                     </div>
                 </div>
-            </dic>
+            </div>
 
             <br><br><br>
 

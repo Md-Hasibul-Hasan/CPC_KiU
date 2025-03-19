@@ -116,12 +116,12 @@ include('header.php');
                         <div class="portfolio-wrap">
                             <img src="  assets/img/events/ev2.jpg  " class="img-fluid" alt="" style="height: 300px;  width:100%">
                             <div class="portfolio-info">
-                                <h4>Team BSMRU_NewHorizon Excels at SUST CSE Carnival 2024
+                                <h4>Team CPC-KiU_NewHorizon Excels at SUST CSE Carnival 2024
                                 </h4>
                                 <p>19 February 2024</p>
                                 <div class="portfolio-links">
                                     <a href="  assets/img/events/ev2.jpg  " data-gallery="portfolioGallery"
-                                        class="portfolio-lightbox" title="Team BSMRU_NewHorizon Excels at SUST CSE Carnival 2024
+                                        class="portfolio-lightbox" title="Team CPC-KiU_NewHorizon Excels at SUST CSE Carnival 2024
                                         "><i class="bi bi-zoom-in"></i></a>
                                     <a href="#" title="More Details"><i class="bx bx-link"></i></a>
                                 </div>
@@ -136,12 +136,12 @@ include('header.php');
                         <div class="portfolio-wrap">
                             <img src="  assets/img/events/ev3.jpg  " class="img-fluid" alt="" style="height: 300px;  width:100%">
                             <div class="portfolio-info">
-                                <h4>BSMRU_NewHorizon Shines at ICPC 2023 Dhaka Regionals!
+                                <h4>CPC-KiU_NewHorizon Shines at ICPC 2023 Dhaka Regionals!
                                 </h4>
                                 <p>24 November 2023</p>
                                 <div class="portfolio-links">
                                     <a href="  assets/img/events/ev3.jpg  " data-gallery="portfolioGallery"
-                                        class="portfolio-lightbox" title="BSMRU_NewHorizon Shines at ICPC 2023 Dhaka Regionals!
+                                        class="portfolio-lightbox" title="CPC-KiU_NewHorizon Shines at ICPC 2023 Dhaka Regionals!
                                         "><i class="bi bi-zoom-in"></i></a>
                                     <a href="#" title="More Details"><i class="bx bx-link"></i></a>
                                 </div>
@@ -153,12 +153,12 @@ include('header.php');
                         <div class="portfolio-wrap">
                             <img src="  assets/img/events/buetiupc.jpg  " class="img-fluid" alt="" style="height: 300px; width:100%">
                             <div class="portfolio-info">
-                                <h4>BUET IUPC 2023: A Head-start Milestone for Team BSMRU_Glitch++
+                                <h4>BUET IUPC 2023: A Head-start Milestone for Team CPC-KiU_Glitch++
                                 </h4>
                                 <p>28 July 2023</p>
                                 <div class="portfolio-links">
                                     <a href="  assets/img/events/ev4.jpg  " data-gallery="portfolioGallery"
-                                        class="portfolio-lightbox" title="BUET IUPC 2023: A Head-start Milestone for Team BSMRU_Glitch++ "><i class="bi bi-zoom-in"></i></a>
+                                        class="portfolio-lightbox" title="BUET IUPC 2023: A Head-start Milestone for Team CPC-KiU_Glitch++ "><i class="bi bi-zoom-in"></i></a>
                                     <a href="#" title="More Details"><i class="bx bx-link"></i></a>
                                 </div>
                             </div>
@@ -200,16 +200,16 @@ include('header.php');
 <!--                                  START FEST SECTION                         -->
 
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-fest hide ">
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-fest ">
                         <div class="portfolio-wrap">
                             <img src="  assets/img/events/fest1.jpg  " class="img-fluid" alt="" style="height: 300px;  width:100%">
                             <div class="portfolio-info">
-                                <h4>Please add a suitable title here
+                                <h4>CSE Fest 2024
                                 </h4>
                                 <p>13 November 2024</p>
                                 <div class="portfolio-links">
                                     <a href="  assets/img/events/fest1.jpg  " data-gallery="portfolioGallery"
-                                        class="portfolio-lightbox" title="Please add a suitable title here
+                                        class="portfolio-lightbox" title="CSE Fest 2024
                                         "><i class="bi bi-zoom-in"></i></a>
                                     <a href="#" title="More Details"><i class="bx bx-link"></i></a>
                                 </div>
@@ -217,16 +217,16 @@ include('header.php');
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-fest hide ">
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-fest  ">
                         <div class="portfolio-wrap">
                             <img src="  assets/img/events/fest2.jpg  " class="img-fluid" alt="" style="height: 300px;  width:100%">
                             <div class="portfolio-info">
-                                <h4>Please add a suitable title here
+                                <h4>CSE Fest 2024
                                 </h4>
                                 <p>13 November 2024</p>
                                 <div class="portfolio-links">
                                     <a href="  assets/img/events/fest2.jpg  " data-gallery="portfolioGallery"
-                                        class="portfolio-lightbox" title="Please add a suitable title here
+                                        class="portfolio-lightbox" title="CSE Fest 2024
                                         "><i class="bi bi-zoom-in"></i></a>
                                     <a href="#" title="More Details"><i class="bx bx-link"></i></a>
                                 </div>
@@ -234,16 +234,16 @@ include('header.php');
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-fest hide ">
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-fest  ">
                         <div class="portfolio-wrap">
                             <img src="  assets/img/events/fest3.jpg  " class="img-fluid" alt="" style="height: 300px;  width:100%">
                             <div class="portfolio-info">
-                                <h4>Please add a suitable title here
+                                <h4>CSE Fest 2024
                                 </h4>
                                 <p>13 November 2024</p>
                                 <div class="portfolio-links">
                                     <a href="  assets/img/events/fest3.jpg  " data-gallery="portfolioGallery"
-                                        class="portfolio-lightbox" title="Please add a suitable title here
+                                        class="portfolio-lightbox" title="CSE Fest 2024
                                         "><i class="bi bi-zoom-in"></i></a>
                                     <a href="#" title="More Details"><i class="bx bx-link"></i></a>
                                 </div>
@@ -286,7 +286,7 @@ include('header.php');
                         <div class="row content">
                             <div class="col-lg-12" data-aos="fade-up" data-aos-delay="150">
                                 <p style="text-align: justify;text-justify: inter-word;">
-                                    CPC - KiU Computer and Programming Club aims to build a user-friendly competitive
+                                    CPC-KiU Computer and Programming Club aims to build a user-friendly competitive
                                     environment and ready-to-go helping community to help foster the soft and hard skill needed
                                     in the era of technological revolution. Whether you are a beginner who does not know
                                     anything about computer and programming or an expert, we have place for everyone to improve.
@@ -511,7 +511,7 @@ include('header.php');
                     <div class="col-lg-4 col-md-" data-aos="fade-up" data-aos-delay="100">
                         <div class="contact-about" style="">
                             <h3>CPC-KiU Computer and Programming Club</h3>
-                            <p style="text-align: justify;text-justify: inter-word;padding-right: 45px ; padding-top:20px">CPC - KiU Computer and Programming
+                            <p style="text-align: justify;text-justify: inter-word;padding-right: 45px ; padding-top:20px">CPC-KiU Computer and Programming
                                 Club aims to build a user-friendly competitive environment and ready-to-go helping community
                                 to help foster the soft and hard skill needed in the era of technological revolution.
                                 Whether you are a beginner who does not know anything about computer and programming or an
