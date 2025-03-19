@@ -31,7 +31,6 @@ include('header.php');
         <div class="container">
 
 
-            
 
             <div class="section-title" data-aos="fade-up">
                 <h2>CHIEF PATRON</h2>
