@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>BSMRU Computer & Programming Club | Events, Courses, Panels</title>
-  <meta name="description" content="Join the BSMRU Computer & Programming Club to develop your programming skills. Explore our events, courses, and networking opportunities." />
+  <title>CPC-KiU Computer & Programming Club | Events, Courses, Panels</title>
+  <meta name="description" content="Join the CPC-KiU Computer & Programming Club to develop your programming skills. Explore our events, courses, and networking opportunities." />
   <meta name="keywords" content="CSE, Computer Science and Engineering, Kishoreganj University, KiU, Kishoreganj, university in Kishoreganj, CSE department, KiU CSE, computer club, programming club, CPC-KiU">
   
   <!-- Open Graph meta tags -->
