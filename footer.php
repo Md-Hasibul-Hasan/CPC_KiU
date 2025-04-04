@@ -95,7 +95,7 @@ document.addEventListener("DOMContentLoaded", function () {
         
         // Update button text and visibility
         loadMoreBtn.style.display = filteredEvents.length > eventsToShow ? "block" : "none";
-        loadMoreBtn.textContent = (endIndex >= filteredEvents.length) ? "Show Less" : "More Events";
+        loadMoreBtn.textContent = (endIndex >= filteredEvents.length) ? "First Events" : "More Events";
     }
 
     function showMoreEvents() {
@@ -141,6 +141,11 @@ document.addEventListener("DOMContentLoaded", function () {
     // Initialize
     init();
 });
+
+
+
+
+
 //============ end load more events =========
 
     </script>

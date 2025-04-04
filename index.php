@@ -263,7 +263,7 @@ include('header.php');
                 </div>
                 <!-- <div class="d-flex justify-content-center"> -->
 
-                    <div class="col-lg-12 col-md-12 col-sm-12 d-flex justify-content-center"><a  id="loadMoreEvents"  class="btn-more" data-aos="fade-up">More Events</a></div>
+                    <div class=" col-lg-12 col-md-12 col-sm-12 d-flex justify-content-center" style="margin-top: 20px;"><a id="loadMoreEvents" class="btn-more" data-aos="fade-up">More Events</a></div>
                 <!-- </div> -->
             </div>
         </section>
