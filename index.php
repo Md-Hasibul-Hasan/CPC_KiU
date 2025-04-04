@@ -95,9 +95,9 @@ include('header.php');
                     </div>
                 </div>
 
-                <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="400">
+                <div class="row portfolio-container items" data-aos="fade-up" data-aos-delay="400">
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-program event-item">
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-program item event-item">
                         <div class="portfolio-wrap">
                             <img src="assets/img/events/ev1.jpg  " class="img-fluid" alt="" style="height: 300px;  width:100%">
                             <div class="portfolio-info">
@@ -112,7 +112,7 @@ include('header.php');
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-program ">
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-program item ">
                         <div class="portfolio-wrap">
                             <img src="  assets/img/events/ev2.jpg  " class="img-fluid" alt="" style="height: 300px;  width:100%">
                             <div class="portfolio-info">
@@ -132,7 +132,7 @@ include('header.php');
 
 
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-program ">
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-program item ">
                         <div class="portfolio-wrap">
                             <img src="  assets/img/events/ev3.jpg  " class="img-fluid" alt="" style="height: 300px;  width:100%">
                             <div class="portfolio-info">
@@ -149,7 +149,7 @@ include('header.php');
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-program ">
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-program item ">
                         <div class="portfolio-wrap">
                             <img src="  assets/img/events/buetiupc.jpg  " class="img-fluid" alt="" style="height: 300px; width:100%">
                             <div class="portfolio-info">
@@ -165,7 +165,7 @@ include('header.php');
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-other ">
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-other item ">
                         <div class="portfolio-wrap">
                             <img src="  assets/img/events/ev-all.jpg  " class="img-fluid" alt="" style="height: 300px;  width:100%">
                             <div class="portfolio-info">
@@ -180,7 +180,7 @@ include('header.php');
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-other ">
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-other item ">
                         <div class="portfolio-wrap">
                             <img src="  assets/img/events/ev-camp.jpg  " class="img-fluid" alt="" style="height: 300px; width:100%">
                             <div class="portfolio-info">
@@ -200,7 +200,7 @@ include('header.php');
 <!--                                  START FEST SECTION                         -->
 
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-fest ">
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-fest item ">
                         <div class="portfolio-wrap">
                             <img src="  assets/img/events/fest1.jpg  " class="img-fluid" alt="" style="height: 300px;  width:100%">
                             <div class="portfolio-info">
@@ -217,7 +217,7 @@ include('header.php');
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-fest  ">
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-fest item  ">
                         <div class="portfolio-wrap">
                             <img src="  assets/img/events/fest2.jpg  " class="img-fluid" alt="" style="height: 300px;  width:100%">
                             <div class="portfolio-info">
@@ -234,7 +234,7 @@ include('header.php');
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-fest  ">
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-fest item  ">
                         <div class="portfolio-wrap">
                             <img src="  assets/img/events/fest3.jpg  " class="img-fluid" alt="" style="height: 300px;  width:100%">
                             <div class="portfolio-info">
@@ -259,10 +259,11 @@ include('header.php');
 
 
 
+
                 </div>
                 <!-- <div class="d-flex justify-content-center"> -->
 
-                    <div class="col-lg-12 col-md-12 col-sm-12 d-flex justify-content-center"><a href="#" id="loadMoreEvents"  class="btn-more" data-aos="fade-up">More Events</a></div>
+                    <div class="col-lg-12 col-md-12 col-sm-12 d-flex justify-content-center"><a  id="loadMoreEvents"  class="btn-more" data-aos="fade-up">More Events</a></div>
                 <!-- </div> -->
             </div>
         </section>
@@ -582,5 +583,4 @@ include('header.php');
 
 
 <?php include('footer.php')?>
-
 

@@ -59,20 +59,88 @@
 
 
     //============ load more events =========
+ 
 
-    document.getElementById("loadMoreEvents").addEventListener("click", function(event) {
-    event.preventDefault(); 
-    
-    let hiddenEvents = document.querySelectorAll(".portfolio-item.hide");
-    
-    hiddenEvents.forEach(eventItem => {
-        eventItem.classList.remove("hide");
+
+document.addEventListener("DOMContentLoaded", function () {
+    const loadMoreBtn = document.getElementById("loadMoreEvents");
+    const container = document.querySelector(".portfolio-container"); // Changed to portfolio-container
+    const allEvents = Array.from(document.querySelectorAll(".portfolio-item")); // Changed to portfolio-item
+    const filterButtons = document.querySelectorAll("#portfolio-flters li");
+    let filteredEvents = [];
+    const eventsToShow = 3;
+    let currentIndex = 0;
+    let selectedFilter = "*"; // Default shows all
+
+    // Initialize - show first 3 events
+    function init() {
+        filterEvents(selectedFilter);
+    }
+
+    function updateVisibleEvents() {
+        container.innerHTML = "";
+        
+        if (filteredEvents.length === 0) {
+            container.innerHTML = "<p style='text-align: center; width: 100%;'>No events available</p>";
+            loadMoreBtn.style.display = "none";
+            return;
+        }
+        
+        // Show events from currentIndex to currentIndex + eventsToShow
+        const endIndex = Math.min(currentIndex + eventsToShow, filteredEvents.length);
+        for (let i = currentIndex; i < endIndex; i++) {
+            const newItem = filteredEvents[i].cloneNode(true);
+            container.appendChild(newItem);
+        }
+        
+        // Update button text and visibility
+        loadMoreBtn.style.display = filteredEvents.length > eventsToShow ? "block" : "none";
+        loadMoreBtn.textContent = (endIndex >= filteredEvents.length) ? "Show Less" : "More Events";
+    }
+
+    function showMoreEvents() {
+        const remainingEvents = filteredEvents.length - (currentIndex + eventsToShow);
+        
+        if (remainingEvents > 0) {
+            currentIndex += eventsToShow;
+        } else {
+            // If we've reached the end, reset to beginning
+            currentIndex = 0;
+        }
+        updateVisibleEvents();
+    }
+
+    function filterEvents(filter) {
+        selectedFilter = filter;
+        currentIndex = 0;
+        
+        if (filter === "*") {
+            filteredEvents = [...allEvents];
+        } else {
+            filteredEvents = allEvents.filter(event => event.classList.contains(filter.replace(".", "")));
+        }
+        
+        updateVisibleEvents();
+    }
+
+    // Event listeners
+    filterButtons.forEach(button => {
+        button.addEventListener("click", function() {
+            // Update active class
+            filterButtons.forEach(btn => btn.classList.remove("active"));
+            this.classList.add("active");
+            
+            // Apply filter
+            const filter = this.getAttribute("data-filter");
+            filterEvents(filter);
+        });
     });
-    
-    // hide the button after revealing all events
-    this.style.display = "none";
-});
 
+    loadMoreBtn.addEventListener("click", showMoreEvents);
+
+    // Initialize
+    init();
+});
 //============ end load more events =========
 
     </script>

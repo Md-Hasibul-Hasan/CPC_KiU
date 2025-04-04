@@ -79,10 +79,60 @@
 } */
 
 
+.items {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    position: relative; /* Helps maintain positioning */
+    min-height: 300px; /* Ensures no shifting */
+}
 
-    .hide{
-            display: none;
-      }
+.item {
+    width: calc(33.333% - 20px); /* 3 items per row */
+    transition: opacity 0.4s ease-in-out, transform 0.4s ease-in-out;
+}
+
+/* Initially show the first 3 items */
+.item.hidden {
+    position: absolute;
+    opacity: 0;
+    visibility: hidden;
+    transform: scale(0.95);
+}
+
+
+#portfolio-flters li {
+    cursor: pointer;
+    padding: 8px 16px;
+    transition: all 0.3s;
+}
+
+#portfolio-flters li.active, #portfolio-flters li:hover {
+    color: #fff;
+    background: #3498db; /* Your theme color */
+}
+
+
+
+
+
+/* Responsive adjustments */
+@media (max-width: 992px) {
+    .item {
+        width: calc(50% - 20px); /* 2 items per row */
+    }
+}
+
+@media (max-width: 768px) {
+    .item {
+        width: 100%; /* 1 item per row */
+    }
+}
+
+
+
+
       
     .image-shade:after {
       content: "";
