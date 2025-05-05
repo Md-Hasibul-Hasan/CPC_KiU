@@ -6,3 +6,4 @@
 5.Changed BSMRU to CPC-KiU
 6.Added cards under executive body
 7.Added back button in dev info page
+8.
